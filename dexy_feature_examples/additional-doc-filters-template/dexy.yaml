@@ -1,0 +1,9 @@
+example.sh|sh:
+    - sh: 
+        add-new-files : True
+        additional-doc-filters : markdown
+
+example.R|rout:
+    - rout:
+        add-new-files : True
+        additional-doc-filters : { '.eps' : 'eps2pdf' }
