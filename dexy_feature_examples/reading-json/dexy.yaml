@@ -1,0 +1,3 @@
+example.markdown|jinja|markdown|easyhtml:
+    - example.py|py:
+         - py: { add-new-files: True }
