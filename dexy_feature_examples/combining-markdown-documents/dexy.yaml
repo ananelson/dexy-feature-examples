@@ -1,0 +1,3 @@
+index.md|jinja|markdown:
+    - examples/*.md:
+        - output: False
